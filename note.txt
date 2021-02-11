@@ -1,0 +1,4 @@
+	// s := router.PathPrefix("/api/characters").Subrouter()
+	// s.HandleFunc("\\?name=\\w+", pc.GetCharacterName).Methods("GET")
+	// s.HandleFunc("/{id:[0-9]+}", pc.GetCharacterById).Methods("GET")
+	// s.HandleFunc("/", pc.List).Methods("GET")
